@@ -1,2 +1,2 @@
 # git-101
-tis is a test 
+this is a test 
